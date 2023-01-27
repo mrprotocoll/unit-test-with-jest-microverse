@@ -1,0 +1,24 @@
+{
+  "name": "unit-test-with-jest-microverse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrprotocoll/unit-test-with-jest-microverse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrprotocoll/unit-test-with-jest-microverse/issues"
+  },
+  "homepage": "https://github.com/mrprotocoll/unit-test-with-jest-microverse#readme",
+  "devDependencies": {
+    "jest": "^29.4.1"
+  }
+}
